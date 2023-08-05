@@ -12,7 +12,7 @@ You require the following:
 1. A MetaMask Wallet - https://metamask.io/download/
 2. Sepolia ETH currency - get some free Sepolia ETH here - https://sepoliafaucet.com/
 
-Once done, go to the dApp site, connect your wallet, and you can vote!
+Once done, go to the dApp site at https://cereal-milk-voting-dapp.vercel.app/, connect your wallet, and you can vote!
 
 You can see the smart contract that has been deployed here - https://sepolia.etherscan.io/address/0x7ECa4b21F31883B9C7EcE9b06f82062be6AEaD01
 
