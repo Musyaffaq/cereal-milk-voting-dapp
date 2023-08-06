@@ -2,6 +2,8 @@
 
 This project is a simple voting system where people can vote whether they put their cereal first or milk first. It is built on React.js, Solidity and Hardhat. The frontend is deployed on Vercel while the "backend" (which is essentially the smart contract) is deployed using Alchemy.
 
+![image](https://github.com/Musyaffaq/cereal-milk-voting-dapp/assets/18120258/880501e6-3b7c-48e8-a0cc-3c1427d7bb03)
+
 ## Features
 - Connect with MetaMask: Users are able to interact with this service by connecting their MetaMask wallet
 - Fetch Votes: Allows users to see what are the votes currently
